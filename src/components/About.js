@@ -58,7 +58,7 @@ let myStyle ={
                             // border: "1px solid",
                             // borderColor: props.mode === 'dark' ? 'white' : 'black'
                         }}>
-                        We Provide you best experience at FREE of cost here, make your work easy and approachable. suitable for writing text with word/ character limits. 
+                        We Provide you best experience at FREE of cost here, make your work easy and approachable. suitable for writing text with word character limits. 
                     </div>
                     </div>
                 </div>
